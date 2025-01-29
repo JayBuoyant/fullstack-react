@@ -37,7 +37,7 @@ Shaun Wassell
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/shaun-wassell).
+Check out his other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/shaun-wassell).
 
 [lil-course-url]: https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3209140/3209140-1662739930785-16x9.jpg
